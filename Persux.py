@@ -14,12 +14,12 @@ try:
         from data.ferramentas import clear
         clear()
         if not usr:
-            print(f'{cy}~Lursy: {vd}Olá...')
+            print(f'{cy}~HYPEZIN.DX: {vd}Olá...')
             sleep(1)
             print('        É sua primeira vez por aqui?')
             sleep(3.5)
             clear()
-            print(f'{cy}~Lursy: {vd}Bem... ')
+            print(f'{cy}~HYPEZIN.DX: {vd}Bem... ')
             sleep(1)
             print('        Seja bem vindo!!')
             sleep(2)
@@ -38,7 +38,7 @@ try:
 ''')
         menu = str(input(f'{am}//: {br}'))
         if not usr:
-            print(f'{cy}~Lursy: {vd}Boa escolha!')
+            print(f'{cy}~HYPEZIN.DX: {vd}Boa escolha!')
             sleep(1)
             usr = True
         if menu == '1':
