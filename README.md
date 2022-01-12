@@ -10,7 +10,7 @@
 #### *COMANDOS*  
  - `pkg i python -y && pkg i git -y`
  - `git clone https://github.com/GUIZIN99/update-design`
- - `cd Persux`
+ - `cd update-design`
  - `python Persux.py`  
 
 #### *FUNÇÕES*  
