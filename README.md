@@ -9,7 +9,7 @@
 
 #### *COMANDOS*  
  - `pkg i python -y && pkg i git -y`
- - `git clone https://github.com/Lursy/Persux`
+ - `git clone https://github.com/GUIZIN99/update-design`
  - `cd Persux`
  - `python Persux.py`  
 
